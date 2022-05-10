@@ -25,4 +25,4 @@
 </div>
 
 
-![Snake animation](https://github.com/Fabi-Boniolo/Fabi-Boniolo/blob/output/github-contribution-grid-snake.svg)
+
