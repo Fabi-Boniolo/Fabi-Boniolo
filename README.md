@@ -1,6 +1,6 @@
 <div><h2>Olá! Eu sou a Fabi Boniolo 👩‍💻</h2></div>
 
-### Estudando Front-end 🌱
+### Estudante FullStack 🌱
 </br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianaboniolo@gmail.com)
