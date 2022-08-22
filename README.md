@@ -1,7 +1,6 @@
 <div><h2>Olá! Eu sou a Fabi Boniolo 👩‍💻</h2></div>
 
 ### FullStack Developer 🌱
-</br>
 
 [Meu  Portifólio](https://fabi-portifolio.netlify.app/)
 
